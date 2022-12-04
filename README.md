@@ -12,8 +12,8 @@
 <h2>Madeline Scott</h2>
 <h3>This map depcits the school rating for all counties in Texas. </h3>
 <!-- Your map goes here -->
-<a href="./maps/map1.png">
-    <img src="./maps/map1.png" alt="my map" width='500px'>
+<a href="./maps/scores.png">
+    <img src="./maps/scores.png" alt="my map" width='500px'>
     </a>
 
 <!-- Link to your shapefile in Github and you CSV -->
