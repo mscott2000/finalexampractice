@@ -18,7 +18,7 @@
 
 <!-- Link to your shapefile in Github and you CSV -->
 <h2>Data used for this project</h2>
-    <a href="./maps/sheet.csv"> CSV dataset </a>
+    <a href="./maps/cleaned2.csv"> CSV dataset </a>
     <p></p>
     <a href="https://github.com/mscott2000/hw6part1/blob/main/counties_4326.geojson"> Link to state vector </a>
 
