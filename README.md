@@ -48,7 +48,7 @@
 <h2>Data used for this project</h2>
     <a href="./maps/tornado.csv"> CSV dataset </a>
     <p></p>
-    <a href="https://github.com/mscott2000/finalexampractice/blob/main/state.geojson"> Link to USA vector </a>
+    <a href="https://github.com/mscott2000/finalexampractice/blob/main/state.geojson"> Link to TV vector </a>
 
 </body>
 </html>
