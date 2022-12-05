@@ -63,5 +63,15 @@
         <p></p>
     <a href="https://github.com/mscott2000/finalexampractice/blob/main/massjson.geojson"> Link to state vector </a>
 
+    <h1>My map for Manhattan practice quiz</h1>
+
+<!-- Your map goes here -->
+<a href="./maps/manhattan.png">
+    <img src="./maps/manhattan.png" alt="my map" width='500px'>
+    </a>
+
+<!-- Link to your shapefile in Github and you CSV -->
+
+
 </body>
 </html>
