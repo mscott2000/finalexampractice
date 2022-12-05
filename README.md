@@ -68,8 +68,8 @@
 <h2>Madeline Scott</h2>
 <h3>Life expectancy map.  </h3>
 <!-- Your map goes here -->
-<a href="./maps/lighthouse.png">
-    <img src="./maps/lighthouse.png" alt="my map" width='500px'>
+<a href="./maps/manny.png">
+    <img src="./maps/manny.png" alt="my map" width='500px'>
     </a>
 
 </body>
