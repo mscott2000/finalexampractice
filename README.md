@@ -61,7 +61,7 @@
 <!-- Link to your shapefile in Github and you CSV -->
 <h2>Data used for this project</h2>
         <p></p>
-    <a href="https://github.com/mscott2000/finalexampractice/blob/main/mass.geojson"> Link to state vector </a>
+    <a href="https://github.com/mscott2000/finalexampractice/blob/main/massjson.geojson"> Link to state vector </a>
 
 </body>
 </html>
